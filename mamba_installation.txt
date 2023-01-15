@@ -1,0 +1,1 @@
+micromamba create --name revdock_colab_3.8 python=3.8 pandas biopython matplotlib seaborn biopandas py3dmol jupyterlab pubchempy rdkit tqdm pymol blast
